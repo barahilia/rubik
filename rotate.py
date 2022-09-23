@@ -141,7 +141,7 @@ def count_steps():
 
     next_cube = copy_cube(start_cube)
 
-    for i in range(1, 5):
+    for i in range(1, 500):
         next_cube = rotate_right_clockwise(next_cube)
         next_cube = rotate_down_clockwise(next_cube)
         print('After %d rotates:' % i)
