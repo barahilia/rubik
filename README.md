@@ -15,10 +15,13 @@ The project features:
 
 ## Show case
 First, the start state:
+
 ![start](start.png)
 
 Next rotate right side clockwise:
+
 ![rotate_right](rotate_right.png)
 
 After that, rotate down side clockwise, completing one full cycle:
+
 ![right_down](right_down.png)
