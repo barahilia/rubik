@@ -1,5 +1,9 @@
 # Rubik's Cube rotations
 
+This README only briefly tells about the task and shows some results. Longer
+story appears in my blog post:
+https://barahilia.github.io/blog/computers/2022/09/26/rubik-rotation.html
+
 ## About
 This project was created to simulate a series of Rubic's cube rotations. A full
 cycle runs in iterations to count the number to get back to the initial state.
